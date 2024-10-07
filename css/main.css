@@ -217,8 +217,9 @@ a:hover {
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 15px;
-    right: -3rem;
+    right: -1rem;
     position: relative;
+    overflow: hidden;
 }
 
 .title {
