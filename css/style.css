@@ -204,7 +204,7 @@ section {
   content: '';
   position: absolute;
   z-index: -1;
-  background: rgb(228, 206, 6);
+  background: rgb(253 26 48);
   height: 15rem;
   width: 15rem;
 }
