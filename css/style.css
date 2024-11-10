@@ -329,7 +329,7 @@ section {
 
 .features .box-container .box .content h3 {
   font-size: 2rem;
-  color: rgb(228, 206, 6);
+  color: rgb(253 26 48);
 }
 
 .features .box-container .box .content p {
@@ -349,7 +349,7 @@ section {
 
 .pricing .information span {
   font-size: 2rem;
-  color: rgb(228, 206, 6);
+  color: rgb(253 26 48);
 }
 
 .pricing .information h3 {
@@ -367,7 +367,7 @@ section {
 
 .pricing .information p i {
   padding-right: 1rem;
-  color: rgb(228, 206, 6);
+  color: rgb(253 26 48);
 }
 
 .pricing .plan {
